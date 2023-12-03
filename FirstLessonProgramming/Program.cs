@@ -14,6 +14,8 @@ namespace FirstLessonProgramming
 
             Console.WriteLine("Test");
             Console.WriteLine(a + " + " + b + " = " + Sum(a, b));
+
+            Console.WriteLine("it was me");
         }
 
         public static int Sum(int var1, int var2)
