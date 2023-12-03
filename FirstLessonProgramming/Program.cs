@@ -12,6 +12,7 @@ namespace FirstLessonProgramming
             Console.Write("Enter second number: b=");
             int b = int.Parse(Console.ReadLine());
 
+            Console.WriteLine("Test");
             Console.WriteLine(a + " + " + b + " = " + Sum(a, b));
         }
 
